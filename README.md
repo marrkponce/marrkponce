@@ -64,7 +64,8 @@ Beyond writing code, I am driven by the desire to create technologies that have 
         <a target="_blank" href="https://marrkponce.github.io/fortune-Cookie.github.io/">
             Visit Here
         </a>
-      https://marrkponce.github.io/fortune-Cookie.github.io/
+      ![fc-giph](https://github.com/marrkponce/marrkponce/assets/106132363/9b2ab76c-82d3-4921-a6d7-732a03bbdae9)
+
         <br />
         <p align="center">
           

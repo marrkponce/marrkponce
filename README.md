@@ -14,6 +14,7 @@
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>  
   
+![fc-giph](https://github.com/marrkponce/marrkponce/assets/106132363/0f1c5ccb-ba6c-4b5d-8b3f-01a5fe41dc14)
 
 
 
@@ -58,16 +59,15 @@ Beyond writing code, I am driven by the desire to create technologies that have 
   
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">Fortune Cookie</h3>
+      <h3 align="center">Travelara.org</h3>
         <br />
-        <a target="_blank" href="https://marrkponce.github.io/fortune-Cookie.github.io/">
-            ![fc-giph](https://github.com/marrkponce/marrkponce/assets/106132363/19c546f6-432d-457c-9a03-6c2420a9f4f1)
-
+        <a target="_blank" href="http://travelara.herokuapp.com">
+            <img src="images/gif1.gif" width="100%" alt="Travel App"/>
         </a>
         <br />
         <p align="center">
           
-  <a href="https://marrkponce.github.io/fortune-Cookie.github.io/" target="_blank">
+  <a href="https://github.com/CharlesCreativeContent/Demo-Day" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
   </a>  
   <a href="http://travelara.herokuapp.com" target="_blank">
@@ -114,5 +114,23 @@ Beyond writing code, I am driven by the desire to create technologies that have 
       </p>
         <p><strong>HTML5, CSS3, & Javascript</strong> - Portfolio Site including links to my projects and ways to get in contact with me.</p>
     </td>
-   
+    <td width="50%" valign="top">
+      <h3 align="center">Matching Cards</h3>
+        <br />
+        <a target="_blank" href="https://poke-matchcards.netlify.app/">
+          <img src="images/gif3.gif" width="100%" alt="Matching Cards"/>
+        </a>
+        <br />
+        <p align="center">
+          
+  <a href="https://github.com/CharlesCreativeContent/matching-card-game" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+  </a>
+  <a href="https://poke-matchcards.netlify.app" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+  </a>
+      </p>
+        <p><strong>HTML5, CSS3, & Javascript</strong> - With over 100 different cards, test your memory in these three popular trading card themes, Pokemon, Yugioh, & Magic: The Gathering!</p>
+    </td>
+  </tr>
 </table>

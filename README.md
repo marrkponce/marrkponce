@@ -48,6 +48,7 @@ Beyond writing code, I am driven by the desire to create technologies that have 
 <br>
 <img src="https://github-readme-stats.vercel.app/api?username=marrkponce&show_icons=true&count_private=true&hide_border=true" align="left" />  
 
+      ![fc-giph](https://github.com/marrkponce/marrkponce/assets/106132363/9b2ab76c-82d3-4921-a6d7-732a03bbdae9)
 
 
 ### What I'm Listening To  

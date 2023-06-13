@@ -54,7 +54,6 @@ Beyond writing code, I am driven by the desire to create technologies that have 
 ![Listening to on Spotify](https://spotify-github-profile.vercel.app/api/view?uid=1218834687&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)  
 
 
-
 <h1 align="center">Projects</h1>
 <table bordercolor="#66b2b2">
   
@@ -71,15 +70,17 @@ Beyond writing code, I am driven by the desire to create technologies that have 
   <a href="https://github.com/marrkponce/fortune-Cookie.github.io" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
   </a>  
- 
+  <a href="https://marrkponce.github.io/fortune-Cookie.github.io/" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+  </a>
       </p>
-        <p><strong>Javascript, HTML, CSS</strong> - Fortune Cookie game to tell you your fortune!</p>
+        <p><strong>HTML5, CSS3, Javascript</strong> - Fortune Cookie game that shows you your fortune!</p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">My Portfolio</h3>
+      <h3 align="center">Mark Ponce's Portfolio</h3>
         <br />
       <a target="_blank" href="https://marrkponce.netlify.app/">
-            <img src="portfolio-giph.gif" width="100%"  alt="Portfolio"/>
+            <img src="portfolio-giph.gif" width="100%"  alt="Mark's Portfolio"/>
         </a>
         <br />
         <p align="center">
@@ -87,9 +88,11 @@ Beyond writing code, I am driven by the desire to create technologies that have 
   <a href="https://github.com/marrkponce/my-portfolio.github.io" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
   </a>
- 
+  <a href="https://marrkponce.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+  </a>
       </p>
-        <p><strong>HTML, CSS, and Javascript</strong> - My professional portfolio</p>
+        <p><strong>HTML5, CSS3, and Javascript</strong> - My personal portfolio website that contains personal projects and contact information.</p>
     </td>
   </tr>
   
@@ -105,9 +108,11 @@ Beyond writing code, I am driven by the desire to create technologies that have 
   <a href="https://github.com/marrkponce/goodcalculator.github.io" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
   </a>
-  
+  <a href="https://marrkponce.github.io/goodcalculator.github.io/" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+  </a>
       </p>
-        <p><strong>HTML, CSS, & Javascript</strong> - Calculator app that can perform basic arithmetic.</p>
+        <p><strong>HTML5, CSS3, & Javascript</strong> - Calculator app that performs simple arithmetic</p>
     </td>
     <td width="50%" valign="top">
       <h3 align="center">Spotifetch</h3>
@@ -121,10 +126,11 @@ Beyond writing code, I am driven by the desire to create technologies that have 
   <a href="https://github.com/marrkponce/spotifetch" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
   </a>
-  
+  <a href="https://github.com/marrkponce/spotifetch" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+  </a>
       </p>
-        <p><strong>HTML, CSS, & Javascript</strong> - Using a userAuth to request access to personal Spotify and fetch top 10 songs and top 10 artists.</p>
+        <p><strong>HTML5, CSS3, & Javascript</strong> - An application that gives me my top 10 songs and top 10 artists using Auth0 and a token to access to my spotify account.</p>
     </td>
   </tr>
 </table>
-

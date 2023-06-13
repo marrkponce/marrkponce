@@ -43,7 +43,8 @@ Beyond writing code, I am driven by the desire to create technologies that have 
 <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
 <a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" /></a>  
 </div>  
-
+<br>
+<br>
 <img src="https://github-readme-stats.vercel.app/api?username=marrkponce&show_icons=true&count_private=true&hide_border=true" align="left" />  
 
 

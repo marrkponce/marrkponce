@@ -53,9 +53,9 @@ Beyond writing code, I am driven by the desire to create technologies that have 
 ### What I'm Listening To  
 ![Listening to on Spotify](https://spotify-github-profile.vercel.app/api/view?uid=1218834687&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)  
 
- ![fc-giph](https://github.com/marrkponce/marrkponce/assets/106132363/9b2ab76c-82d3-4921-a6d7-732a03bbdae9)
 
 
 <h1 align="center">Projects</h1>
 
+ ![fc-giph](https://github.com/marrkponce/marrkponce/assets/106132363/9b2ab76c-82d3-4921-a6d7-732a03bbdae9)
 

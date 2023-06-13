@@ -71,67 +71,59 @@ Beyond writing code, I am driven by the desire to create technologies that have 
   <a href="https://github.com/marrkponce/fortune-Cookie.github.io" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
   </a>  
-  <a href="http://travelara.herokuapp.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
-  </a>
+ 
       </p>
-        <p><strong>Javascript, Bootstrap, Sass, Node.js, & Express.js</strong> - Platform to help build momentous milestones along with your friends and family! Travelara makes Dream Trips a Reality!</p>
+        <p><strong>Javascript, HTML, CSS</strong> - Fortune Cookie game to tell you your fortune!</p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">Rigley 2: "Flappy Bug"</h3>
+      <h3 align="center">My Portfolio</h3>
         <br />
-      <a target="_blank" href="https://codepen.io/ShawnBasquiat/full/bGVWpYw">
-            <img src="images/gif2.gif" width="100%"  alt="Rigley 2"/>
+      <a target="_blank" href="https://marrkponce.netlify.app/">
+            <img src="portfolio-giph.gif" width="100%"  alt="Portfolio"/>
         </a>
         <br />
         <p align="center">
           
-  <a href="https://github.com/CharlesCreativeContent/Rigley2-FlappyBug" target="_blank">
+  <a href="https://github.com/marrkponce/my-portfolio.github.io" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
   </a>
-  <a href="https://codepen.io/ShawnBasquiat/full/bGVWpYw" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
-  </a>
+ 
       </p>
-        <p><strong>Javascript & Phaser.js</strong> - The awaited sequel sees our Rigley friend jumping through firewalls "Flappy Bird" style.</p>
+        <p><strong>HTML, CSS, and Javascript</strong> - My professional portfolio</p>
     </td>
   </tr>
   
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">ShawnCharles.com</h3>
+      <h3 align="center">Good Calculator</h3>
       <br />
-        <a target="_blank" href="https://shawncharles.com">
-          <img src="images/gif4.gif" width="100%" alt="Portfolio"/>
+        <a target="_blank" href="https://marrkponce.github.io/goodcalculator.github.io/">
+          <img src="calculator-giph.gif" width="100%" alt="Good Calculator"/>
         </a>
       <br />
         <p align="center">
-  <a href="https://github.com/CharlesCreativeContent/Portfolio2021" target="_blank">
+  <a href="https://github.com/marrkponce/goodcalculator.github.io" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
   </a>
-  <a href="http://shawncharles.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
-  </a>
+  
       </p>
-        <p><strong>HTML5, CSS3, & Javascript</strong> - Portfolio Site including links to my projects and ways to get in contact with me.</p>
+        <p><strong>HTML, CSS, & Javascript</strong> - Calculator app that can perform basic arithmetic.</p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">Matching Cards</h3>
+      <h3 align="center">Spotifetch</h3>
         <br />
-        <a target="_blank" href="https://poke-matchcards.netlify.app/">
-          <img src="images/gif3.gif" width="100%" alt="Matching Cards"/>
+        <a target="_blank" href="https://github.com/marrkponce/spotifetch">
+          <img src="spotifetch-giph.gif" width="100%" alt="Spotifetch"/>
         </a>
         <br />
         <p align="center">
           
-  <a href="https://github.com/CharlesCreativeContent/matching-card-game" target="_blank">
+  <a href="https://github.com/marrkponce/spotifetch" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
   </a>
-  <a href="https://poke-matchcards.netlify.app" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
-  </a>
+  
       </p>
-        <p><strong>HTML5, CSS3, & Javascript</strong> - With over 100 different cards, test your memory in these three popular trading card themes, Pokemon, Yugioh, & Magic: The Gathering!</p>
+        <p><strong>HTML, CSS, & Javascript</strong> - Using a userAuth to request access to personal Spotify and fetch top 10 songs and top 10 artists.</p>
     </td>
   </tr>
 </table>

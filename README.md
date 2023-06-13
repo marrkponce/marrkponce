@@ -14,7 +14,7 @@
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>  
   
-![fc-giph](https://github.com/marrkponce/marrkponce/assets/106132363/0f1c5ccb-ba6c-4b5d-8b3f-01a5fe41dc14)
+
 
 
 
